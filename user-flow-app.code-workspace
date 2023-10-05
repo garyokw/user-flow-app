@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../user-flow-frontend"
+		}
+	],
+	"settings": {}
+}
