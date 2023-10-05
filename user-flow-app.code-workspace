@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "../user-flow-frontend"
+		},
+		{
+			"path": "../user-flow-backend"
 		}
 	],
 	"settings": {}
